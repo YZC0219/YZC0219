@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="EnergyTrace portfolio card. 8 workshops, 6 energy types, 731 days and 29 SQL queries. Chart is an illustration.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1423"/><stop offset="1" stop-color="#122a38"/></linearGradient><linearGradient id="accent"><stop stop-color="#6be4c1"/><stop offset="1" stop-color="#87aaff"/></linearGradient></defs>
+<rect x=".5" y=".5" width="999" height="329" rx="18" fill="url(#bg)" stroke="#2b4358"/>
+<g font-family="Segoe UI,Arial,Microsoft YaHei,sans-serif">
+<text x="36" y="43" fill="#6be4c1" font-size="12" letter-spacing="3">01 / FEATURED PROJECT</text>
+<text x="32" y="110" fill="#edf4ff" font-size="50" font-weight="700">EnergyTrace <tspan font-size="26" fill="#a8bed0">能迹</tspan></text>
+<text x="36" y="153" fill="#edf4ff" font-size="21">工业能耗 · 数据工程 · 可解释分析</text>
+<text x="36" y="188" fill="#9bb0c8" font-size="15">清洗 → 数仓 → 分析 → 诊断 → 验证</text>
+<g fill="#0b1423" stroke="#2b4358"><rect x="36" y="226" width="105" height="64" rx="8"/><rect x="155" y="226" width="105" height="64" rx="8"/><rect x="274" y="226" width="105" height="64" rx="8"/><rect x="393" y="226" width="105" height="64" rx="8"/></g>
+<g fill="#6be4c1" font-size="23" font-weight="600"><text x="52" y="253">8</text><text x="171" y="253">6</text><text x="290" y="253">731</text><text x="409" y="253">29</text></g>
+<g fill="#9bb0c8" font-size="11"><text x="52" y="276">WORKSHOPS</text><text x="171" y="276">ENERGIES</text><text x="290" y="276">DAYS</text><text x="409" y="276">SQL QUERIES</text></g>
+<rect x="585" y="52" width="374" height="238" rx="12" fill="#0a1421" stroke="#2b4358"/><text x="607" y="79" fill="#9bb0c8" font-size="10" letter-spacing="2">ANALYTICS / VISUAL CONCEPT</text>
+<g fill="#182b3e"><rect x="607" y="96" width="97" height="40" rx="6"/><rect x="717" y="96" width="97" height="40" rx="6"/><rect x="827" y="96" width="110" height="40" rx="6"/></g>
+<g fill="#6be4c1"><rect x="620" y="108" width="31" height="4" rx="2"/><rect x="730" y="108" width="31" height="4" rx="2"/><rect x="840" y="108" width="31" height="4" rx="2"/></g>
+<g stroke="#263c50"><path d="M607 162H937M607 192H937M607 222H937M607 252H937"/></g>
+<path d="M607 245L631 220L655 231L679 205L703 214L727 175L751 193L775 163L799 181L823 162L847 197L871 177L895 157L919 174L937 151" fill="none" stroke="url(#accent)" stroke-width="3"/>
+<text x="607" y="274" fill="#7995ac" font-size="10">ILLUSTRATION · BASE DATA IS SIMULATED</text>
+</g></svg>

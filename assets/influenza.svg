@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="270" viewBox="0 0 490 270" role="img" aria-label="Annual influenza visualization demo with simulated data. Filter by year, region and age group. Decorative chart.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1423"/><stop offset="1" stop-color="#122a38"/></linearGradient><linearGradient id="accent"><stop stop-color="#6be4c1"/><stop offset="1" stop-color="#87aaff"/></linearGradient></defs>
+<rect x=".5" y=".5" width="489" height="269" rx="18" fill="url(#bg)" stroke="#2b4358"/>
+<g font-family="Segoe UI,Arial,Microsoft YaHei,sans-serif">
+<text x="27" y="35" fill="#6be4c1" font-size="11" letter-spacing="2">03 / VISUAL STORYTELLING</text><text x="25" y="75" fill="#edf4ff" font-size="27" font-weight="600">年度流感监测大屏</text>
+<text x="27" y="105" fill="#9bb0c8" font-size="14">年份 · 地区 · 年龄组 · 联动筛选</text>
+<path d="M28 182H458M28 152H458M28 122H458" stroke="#263c50"/><path d="M28 172L56 162L84 168L112 144L140 153L168 125L196 144L224 151L252 142L280 163L308 156L336 174L364 160L392 167L420 151L458 145" stroke="#6be4c1" stroke-width="3" fill="none"/>
+<text x="27" y="222" fill="#9bb0c8" font-size="12">HTML / CSS / JAVASCRIPT · SIMULATED DATA</text><text x="27" y="248" fill="#6be4c1" font-size="12">查看项目与交互设计 ↗</text>
+</g></svg>
