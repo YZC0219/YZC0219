@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="assets/intro.gif" width="100%" alt="YZC0219 数据实验室：构建数据链路、核验异常证据、解释分析结果的三幕原创动画" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chat-dark.svg" />
+    <img src="assets/chat-light.svg" width="100%" alt="嗨，我是 YZC0219。大数据专业学生，正在完善能迹 EnergyTrace；AI 辅助实现，用证据核验，持续学习。聊天气泡循环介绍。" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg" />
+    <img src="assets/typing-light.svg" width="100%" alt="循环打字：数据工程、分析与可视化、公开学习、AI 辅助构建与证据核验" />
+  </picture>
 </p>
 
 <p align="center">
@@ -8,7 +18,11 @@
   <a href="https://github.com/YZC0219?tab=repositories">浏览全部仓库</a>
 </p>
 
-<p align="center"><sub>DATA ENGINEERING　/　ANALYTICS　/　VISUAL STORYTELLING</sub></p>
+<p align="center">
+  <a href="https://github.com/YZC0219?tab=followers"><img src="https://img.shields.io/github/followers/YZC0219?label=Followers&amp;style=flat-square&amp;color=087e72" alt="GitHub followers" /></a>
+  <a href="https://github.com/YZC0219?tab=repositories"><img src="https://img.shields.io/github/stars/YZC0219?label=Stars&amp;style=flat-square&amp;color=5b78aa" alt="GitHub stars" /></a>
+  <a href="https://github.com/YZC0219/YZC0219/actions/workflows/refresh-profile.yml"><img src="https://github.com/YZC0219/YZC0219/actions/workflows/refresh-profile.yml/badge.svg" alt="Daily profile refresh" /></a>
+</p>
 
 ## 01 / ABOUT　把问题变成可以验证的答案
 
@@ -18,7 +32,7 @@
 
 开发过程中，我使用 AI 辅助实现，通过提出问题、审查结果、复现和排错逐步理解代码。这里也记录那些让我真正学到东西的错误、修复和未完成事项。
 
-> **目前的关注点：**工业数据链路的可靠性、异常与预测的证据核验，以及数据产品的交互表达。
+> **目前的关注点**：工业数据链路的可靠性、异常与预测的证据核验，以及数据产品的交互表达。
 
 ## 02 / SELECTED WORK　从一个场景持续深入
 
@@ -46,16 +60,34 @@
 
 <img src="assets/learning-map.svg" width="100%" alt="学习路线：数据基础、处理链路、模型证据、交互交付。学习方向不代表技能熟练度评级。" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Kafka-25364A?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/JavaScript-DCC35B?style=flat-square&amp;logo=javascript&amp;logoColor=142D3A" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /><br /><sub>Python</sub></td>
+    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
+    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br /><sub>Docker</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /><br /><sub>Kafka</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br /><sub>Redis</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br /><sub>Flask</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br /><sub>PyTorch</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br /><sub>Scikit-learn</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br /><sub>SQLite</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><sub>Git</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br /><sub>HTML</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br /><sub>CSS</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br /><sub>Linux</sub></td>
+    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br /><sub>GitHub</sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>正在学习与实践的工具 · 动态与静态图标组合 · 不代表熟练度评级</sub></p>
 
 <details>
 <summary><strong>展开我的实践方向与下一步</strong></summary>
@@ -82,6 +114,13 @@
 
 <img src="assets/activity.svg" width="100%" alt="过去一年 GitHub 贡献热力图、近 30 日活跃天数、公开仓库与 Stars；每日自动刷新" />
 
+<p align="center"><strong>让每一天的贡献，连成一条前进的轨迹。</strong></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <img src="assets/snake-light.svg" width="100%" alt="贪吃蛇沿着我的真实 GitHub 贡献格子移动；由每日工作流重新生成。" />
+</picture>
+
 <img src="assets/recent-projects.svg" width="100%" alt="三个代表项目的最近推送日期与最新提交主题；每日自动刷新" />
 
 <details>
@@ -97,7 +136,16 @@
 
 贡献热力图来自 GitHub 原生贡献日历，覆盖过去一年；贡献并不等同于提交次数。仓库统计覆盖公开、非 Fork 仓库，语言按仓库主要语言计数。作品卡片展示精选项目的推送日期与最新提交主题。
 
-页面每日通过 GitHub Actions 刷新，也支持手动触发。顶部 GIF 与作品卡图表是原创视觉设计；统计区使用真实 API 数据，更新失败时保留之前版本。[查看刷新记录](https://github.com/YZC0219/YZC0219/actions/workflows/refresh-profile.yml) · [查看生成脚本](scripts/update_profile.py)
+页面每日通过 GitHub Actions 刷新，也支持手动触发。聊天气泡、循环打字与作品卡图表是原创视觉设计；统计区与贡献贪吃蛇使用真实 GitHub 数据，更新失败时保留之前版本。[查看刷新记录](https://github.com/YZC0219/YZC0219/actions/workflows/refresh-profile.yml) · [查看生成脚本](scripts/update_profile.py)
+
+</details>
+
+<details>
+<summary>查看数据实验室动画与组件来源</summary>
+
+<img src="assets/intro.gif" width="100%" alt="原创三幕数据实验室动画：构建、核验、解释" />
+
+聊天气泡与打字：[生成源码](scripts/create_social_assets.py)。实验室动画：[生成源码](scripts/create_intro.py)。贡献贪吃蛇：[Platane/snk](https://github.com/Platane/snk)。技术图标：[TechStack Generator](https://techstack-generator.vercel.app/) 与 [Skill Icons](https://github.com/tandpfun/skill-icons)。
 
 </details>
 
