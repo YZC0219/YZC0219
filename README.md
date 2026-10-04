@@ -60,34 +60,90 @@
 
 <img src="assets/learning-map.svg" width="100%" alt="学习路线：数据基础、处理链路、模型证据、交互交付。学习方向不代表技能熟练度评级。" />
 
+<!-- TOOLBOX:START -->
+### 数据分析与建模
+
 <table align="center">
   <tr>
     <td align="center" width="140"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /><br /><sub>Python</sub></td>
-    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
-    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
-    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br /><sub>Docker</sub></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" /><br /><sub>pandas</sub></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br /><sub>NumPy</sub></td>
+    <td align="center" width="140"><img src="assets/icons/scipy.svg" width="48" height="48" alt="SciPy" /><br /><sub>SciPy</sub></td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /><br /><sub>Kafka</sub></td>
-    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br /><sub>Redis</sub></td>
-    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
-    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br /><sub>Flask</sub></td>
+    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br /><sub>SQLite</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br /><sub>Scikit-learn</sub></td>
+    <td align="center" width="140"><img src="assets/icons/lightgbm.svg" width="48" height="48" alt="LightGBM" /><br /><sub>LightGBM</sub></td>
   </tr>
   <tr>
     <td align="center" width="140"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br /><sub>PyTorch</sub></td>
-    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br /><sub>Scikit-learn</sub></td>
-    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br /><sub>SQLite</sub></td>
-    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><sub>Git</sub></td>
+    <td align="center" width="140"><img src="assets/icons/shap.svg" width="48" height="48" alt="SHAP" /><br /><sub>SHAP</sub></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" /><br /><sub>Matplotlib</sub></td>
+    <td align="center" width="140"><img src="assets/icons/apacheecharts.svg" width="48" height="48" alt="ECharts" /><br /><sub>ECharts</sub></td>
+  </tr>
+</table>
+
+PyTorch 与深度模型按可选依赖启用；ECharts 用于生产运营看板。
+
+### 数仓与实时处理
+
+<table align="center">
+  <tr>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" /><br /><sub>Hadoop</sub></td>
+    <td align="center" width="140"><img src="assets/icons/apachehive.svg" width="48" height="48" alt="Hive" /><br /><sub>Hive</sub></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Spark" /><br /><sub>Spark</sub></td>
+    <td align="center" width="140"><img src="assets/icons/datax.svg" width="48" height="48" alt="DataX" /><br /><sub>DataX</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Airflow" /><br /><sub>Airflow</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /><br /><sub>Kafka</sub></td>
+    <td align="center" width="140"><img src="assets/icons/apacheflink.svg" width="48" height="48" alt="Flink" /><br /><sub>Flink</sub></td>
+    <td align="center" width="140"><img src="assets/icons/iceberg.svg" width="48" height="48" alt="Iceberg" /><br /><sub>Iceberg</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/clickhouse/clickhouse-original.svg" width="48" height="48" alt="ClickHouse" /><br /><sub>ClickHouse</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br /><sub>Redis</sub></td>
+    <td align="center" width="140"><img src="assets/icons/metabase.svg" width="48" height="48" alt="Metabase" /><br /><sub>Metabase</sub></td>
+    <td align="center" width="140"><img src="assets/icons/great-expectations.svg" width="48" height="48" alt="Great Expectations" /><br /><sub>Great<br />Expectations</sub></td>
+  </tr>
+</table>
+
+分层数仓、实时处理与湖仓扩展的单节点 / 本机实验；运行方式和验证范围见主项目文档。
+
+### 服务、前端与工程工具
+
+<table align="center">
+  <tr>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br /><sub>FastAPI</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br /><sub>Flask</sub></td>
+    <td align="center" width="140"><img src="assets/icons/uvicorn.svg" width="48" height="48" alt="Uvicorn" /><br /><sub>Uvicorn</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
   </tr>
   <tr>
     <td align="center" width="140"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br /><sub>HTML</sub></td>
     <td align="center" width="140"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br /><sub>CSS</sub></td>
+    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+    <td align="center" width="140"><img src="assets/icons/openpyxl.svg" width="48" height="48" alt="openpyxl" /><br /><sub>openpyxl</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br /><sub>Docker</sub></td>
     <td align="center" width="140"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br /><sub>Linux</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" /><br /><sub>PowerShell</sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><sub>Git</sub></td>
+  </tr>
+  <tr>
     <td align="center" width="140"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br /><sub>GitHub</sub></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" /><br /><sub>GitHub<br />Actions</sub></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg" width="48" height="48" alt="pytest" /><br /><sub>pytest</sub></td>
+    <td align="center" width="140"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /><br /><sub>Playwright</sub></td>
   </tr>
 </table>
 
-<p align="center"><sub>正在学习与实践的工具 · 动态与静态图标组合 · 不代表熟练度评级</sub></p>
+PostgreSQL 用于 Airflow 元数据库；openpyxl 支持看板 Excel 导入；pytest / Playwright 用于回归与浏览器验收。
+
+<p align="center"><sub>图标表示项目涉及的技术与工具，不代表熟练度评级；部分扩展需要独立环境或可选依赖。</sub></p>
+<!-- TOOLBOX:END -->
 
 <details>
 <summary><strong>展开我的实践方向与下一步</strong></summary>
@@ -145,7 +201,7 @@
 
 <img src="assets/intro.gif" width="100%" alt="原创三幕数据实验室动画：构建、核验、解释" />
 
-聊天气泡与打字：[生成源码](scripts/create_social_assets.py)。实验室动画：[生成源码](scripts/create_intro.py)。贡献贪吃蛇：[Platane/snk](https://github.com/Platane/snk)。技术图标：[TechStack Generator](https://techstack-generator.vercel.app/) 与 [Skill Icons](https://github.com/tandpfun/skill-icons)。
+聊天气泡与打字：[生成源码](scripts/create_social_assets.py)。实验室动画：[生成源码](scripts/create_intro.py)。贡献贪吃蛇：[Platane/snk](https://github.com/Platane/snk)。技术图标：[TechStack Generator](https://techstack-generator.vercel.app/)、[Skill Icons](https://github.com/tandpfun/skill-icons)、[Devicon](https://github.com/devicons/devicon) 与 [Simple Icons](https://github.com/simple-icons/simple-icons)。少数工具使用原创缩写标识；来源见[图标说明](assets/icons/NOTICE.md)。
 
 </details>
 
